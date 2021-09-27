@@ -1,6 +1,6 @@
 # Linux-disable-aslr-shell-script
-Usage:
-chmod +x alsr.sh
-./aslr.sh --enable
-or 
+Usage:<br />
+chmod +x alsr.sh <br />
+./aslr.sh --enable <br />
+or <br />
 ./aslr.sh --disable
